@@ -1,7 +1,7 @@
 2025-03-06 17:41:18.800  INFO 20696 --- [main] es.urjc.etsii.grafo.TSP.Main             : Starting Main using Java 22.0.2 on Portatil-Adrián with PID 20696 (C:\Users\Adrián\Desktop\content\example-tsp\target\classes started by Adrián in C:\Users\Adrián\Desktop\content)
 2025-03-06 17:41:18.875  INFO 20696 --- [main] es.urjc.etsii.grafo.TSP.Main             : No active profile set, falling back to default profiles: default
 2025-03-06 17:41:20.042  INFO 20696 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'eventAsyncConfigurer' of type [es.urjc.etsii.grafo.solver.services.events.EventAsyncConfigurer] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2025-03-06 17:41:20.327  INFO 20696 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2025-03-06 17:41:20.327  INFO 20696 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat  initialized with port(s): 8080 (http)
 2025-03-06 17:41:20.336  INFO 20696 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
 2025-03-06 17:41:20.336  INFO 20696 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.55]
 2025-03-06 17:41:20.465  INFO 20696 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
